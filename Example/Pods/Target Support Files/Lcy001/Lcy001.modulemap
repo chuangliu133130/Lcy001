@@ -1,0 +1,6 @@
+framework module Lcy001 {
+  umbrella header "Lcy001-umbrella.h"
+
+  export *
+  module * { export * }
+}
